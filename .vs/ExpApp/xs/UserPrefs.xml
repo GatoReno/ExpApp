@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{B941E534-E762-4FE3-8A4E-88667A69C3DD}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExpApp FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ExpApp.Android FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ExpApp.iOS FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
